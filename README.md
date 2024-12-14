@@ -6,6 +6,8 @@
 <hr width=100%>
 
 
+The SeaNos pipeline was [part of an art exhibition at the International Documentary Festival Amsterdam](https://festival.idfa.nl/film/18d83eed-a061-4441-86bd-bef7c1a407eb/you-can-sing-me-on-my-way/) (IDFA).
+
 Development of ```Text``` $\rightarrow$ ```Sean Nos``` using existing models.
 
 Tutorials: [HF](https://huggingface.co/learn/audio-course/chapter6/tts_datasets)
